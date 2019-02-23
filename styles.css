@@ -174,3 +174,12 @@ a {
     text-align: center;
     margin: 3.2rem 0;
 }
+
+.button--done{
+padding-right: 18px;
+padding-left: 18px;
+}
+.button--done a{
+    text-decoration: none;
+    color: white;
+}
