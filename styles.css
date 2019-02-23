@@ -182,4 +182,5 @@ padding-left: 18px;
 .button--done a{
     text-decoration: none;
     color: white;
+    cursor: pointer;
 }
